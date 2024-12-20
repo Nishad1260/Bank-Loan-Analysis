@@ -6,8 +6,11 @@ The dashboard is built in Power BI and connected to a SQL Server database to fet
 
 **Tools and Technologies**
 Database: SQL Server
+
 Dashboard Tool: Power BI
+
 Data Cleaning: Power Query in Power BI
+
 Language: SQL
 
 **Steps in the Project**
