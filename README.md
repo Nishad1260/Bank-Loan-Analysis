@@ -5,12 +5,10 @@ This project analyzes bank loan data to understand trends, loan performance, and
 The dashboard is built in Power BI and connected to a SQL Server database to fetch and process data.
 
 **Tools and Technologies**
+
 Database: SQL Server
-
 Dashboard Tool: Power BI
-
 Data Cleaning: Power Query in Power BI
-
 Language: SQL
 
 **Steps in the Project**
@@ -21,6 +19,7 @@ Language: SQL
 4)Dashboard Creation:Built charts, graphs, and metrics in Power BI to show key insights.
 
 **Key Features**
+
 1) Data Connection: Used SQL Server to store and retrieve data for analysis.
 2) Interactive Dashboard: Created visuals like charts and graphs in Power BI to make data easy to understand.
 3) Insights:
