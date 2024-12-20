@@ -38,3 +38,15 @@ Language: SQL
       ii)Loan repayment trends and default analysis.
    
       iii)Performance comparison across different loan types.
+
+**Key Insights**
+
+Customers with higher credit scores had better loan repayment records.
+
+Home loans were approved the most, while personal loans had more defaults.
+
+Younger customers tended to have higher default rates.
+
+Customers with higher credit scores had better loan repayment records.
+Home loans were approved the most, while personal loans had more defaults.
+Younger customers tended to have higher default rates.
